@@ -1,6 +1,6 @@
 # Employee Analysis Dashboard
 
-![Employee Dashboard](https://github.com/Yossefmohammed/Employees_dashboard/blob/main/Screenshot%202025-05-04%20142516.png)
+![Employee Dashboard](https://github.com/Yossefmohammed/Employees_dashboard/blob/main/employyes%20dashborad.png)
 
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of employee data, offering valuable insights into workforce management, performance metrics, and organizational structure. The dashboard is designed to help HR professionals and management make data-driven decisions regarding their workforce.
